@@ -1,0 +1,13 @@
+# window
+Thumbs.db
+ethumbs.db
+Desktop.ini
+
+# Python
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+
+# My configurations
+node_modules
